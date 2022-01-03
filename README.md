@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there!  👋
 
 <!--
 **lawlessminimalist/lawlessminimalist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 🚀 About Me
-- 🎓 I am completing a BSc at Queensland University of Technology 🏫 where i'm studying a Major in Computer Science and Minors in AI/Mobile Application Dev.
-- 🔭 I’m currently working on a price selection toolkit that will enable users to sell their second-hand goods at an established market rate. This is a hobby project i've undertaken for both the purpose of learning full-stack JS and also creating a tool that I would use myself.
-- 🌱 I’m currently learning JS and React through passion projects, and OOP Java and .Net for work and backend purposes. I find myself drawn to ML and data analysis through python as well, so my next project will incorporate these as well.
+
+🎓 I am completing a BSc at Queensland University of Technology 🏫 where i'm studying a Major in Computer Science and Minors in AI / Mobile Application Dev.
+
+🔭 I’m currently working on a price selection toolkit that will enable users to sell their second-hand goods at an established market rate. This is a hobby project i've undertaken for both the purpose of learning full-stack JS and also creating a tool that I would use myself.
+
+🌱 I’m currently learning JS and React through passion projects, and OOP Java and .Net for work and backend purposes. I find myself drawn to ML and data analysis through python as well, so my next project will likey incorporate these stacks.
