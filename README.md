@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-🎓 I am completing a BSc at **Queensland University of Technology** 🏫 where i'm studying a Major in **Computer Science** and Minors in **AI** / **Mobile Application Dev**. I've got some professional experience in Cloud Computing☁️, in particular with AWS serverless deployments/fundamentals. 
+🎓 I am completing a BSc at **Queensland University of Technology** 🏫 where i'm studying a Major in **Computer Science** and Minors in **AI** / **Mobile Application Dev**. I've got some professional experience in ☁️ Cloud Computing, in particular with AWS serverless deployments/fundamentals. 
 
 🔭 I'm on the lookout for open-source projects to collaborate on and small self-started projects to further refine my software engineering skills. I'm currently focused on improving my multi-threading and concurrent programming skills.
 
