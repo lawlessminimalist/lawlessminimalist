@@ -1,17 +1,18 @@
-## Hi there!  👋
+# Hey, I'm Dan 👋
 
-<!--
-**lawlessminimalist/lawlessminimalist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure & Observability Engineer working on Kubernetes infrastructure, metrics pipelines, and telemetry systems at scale.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Metrics pipelines** — Mimir, Prometheus, OpenTelemetry Collector, Datadog
+- **Kubernetes operations** — cluster infrastructure, Karpenter, autoscaling, incident response
+- **AWS integrations** — CloudWatch metrics ingestion, ECR, ECS
+- **Reliability engineering** — root cause analysis, runbooks, production incident response
 
+## Interests
+
+- Site reliability engineering and production readiness
+- Distributed systems design and failure modes
+- Kubernetes internals and operator patterns
+- OpenTelemetry and the evolving observability ecosystem
+- Building custom OTel processors in Go
